@@ -2,11 +2,13 @@
 
 ## Online course covers three chapters: 
 
-1) Data Analytic strategies & Data Visualization
+### 1) Data Analytic strategies & Data Visualization
 - Basic Python, Pandas, Seaborn, Folium analytic tools 
 - Exercises
 
-2) Machine Learning
+
+### 2) Machine Learning
 - Exercises
 
-3) Projects 
+
+### 3) Projects 
