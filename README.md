@@ -3,8 +3,8 @@
 ## Online course covers three chapters: 
 
 ### 1) Data Analytic strategies & Data Visualization
-- Basic: Python, Pandas
-- Data Visualization: Seaborn, Folium analytic tools 
+- **Basic:** Python, Pandas
+- **Data Visualization:** Seaborn, Folium analytic tools 
 - Exercises
 
 
