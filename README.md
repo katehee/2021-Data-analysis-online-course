@@ -1,6 +1,6 @@
-# 2021-Data-analysis-online-course
+# 2021-Data-analysis-study
 
-## Online course covers three chapters: 
+## covers three chapters: 
 
 ### 1) Data Analytic strategies & Data Visualization
 - **Basic:** Python, Pandas
