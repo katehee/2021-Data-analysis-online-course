@@ -1,6 +1,6 @@
 # 2021-Data-analysis-study
 
-## covers three chapters: 
+## Three chapters: 
 
 ### 1) Data Analytic strategies & Data Visualization
 - **Basic:** Python, Pandas
