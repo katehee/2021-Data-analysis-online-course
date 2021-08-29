@@ -1,4 +1,4 @@
-# 2021-Data analysis study
+# 2021 Data analysis study
 
 ## Three chapters: 
 
