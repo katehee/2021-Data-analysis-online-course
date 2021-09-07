@@ -10,7 +10,9 @@
   -  Folium  
 </t><img height="180" alt="folium_map" src="https://user-images.githubusercontent.com/89289320/131233860-b951e019-a8bc-4285-8344-d4e883a2d8d5.png">
 - Exercise_1: Baseball analysis
-  - Who is the best MBL baseball batter in 2020
+  - 1) Who is the best MBL baseball batter in 2020
+  - 2) Player_Summer_Performance Analysis: whos performance is steady regardless of hot weather (summer)
+  - 3) Team "____" killer
 
 
 ### 2) Machine Learning
