@@ -13,7 +13,8 @@
   - 1) Who is the best MBL baseball batter in 2020
   - 2) Player_Summer_Performance Analysis: whos performance is steady regardless of hot weather (summer)
   - 3) Team "____" killer
-
+- Exercise_2: Subway analysis
+  - 1) EDA by date
 
 ### 2) Machine Learning
 - Exercises
