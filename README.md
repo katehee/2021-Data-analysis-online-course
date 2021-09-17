@@ -15,6 +15,7 @@
   - 3) Team "____" killer
 - Exercise_2: Subway analysis
   - 1) EDA by date
+  - 2)
 
 ### 2) Machine Learning
 - Exercises
